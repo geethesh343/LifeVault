@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Life Management Platform",
+  "description": "A comprehensive cloud-based personal digital wallet for documents, subscriptions, passwords, warranties, bills, expiry tracking, family access, and AI smart search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
